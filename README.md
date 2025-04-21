@@ -1,1 +1,1 @@
-# Learning-TypeScrypt
+# Learning-TypeScript
